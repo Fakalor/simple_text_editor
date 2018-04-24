@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1506895215 source:c:\programy\epi\projekt_cwiczenia\projekt_cwiczenia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<curses.h>
+	<string.h>
+
+1216145605 c:\pdcurs\curses.h
+	<stdarg.h>
+	<stddef.h>
+	<stdio.h>
+	<wchar.h>
+
